@@ -1,0 +1,17 @@
+{
+  "name": "knex-sql-migration-source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirill Voronin <yoursdearboy@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "knex": "^2.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.44.0"
+  }
+}
